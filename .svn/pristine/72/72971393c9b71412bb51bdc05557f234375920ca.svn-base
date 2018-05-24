@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-<<<<<<< HEAD
-    <wb-module deploy-name="test.day2">
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <wb-resource deploy-path="/" source-path="/Webroot"/>
-        <property name="context-root" value="test.day2"/>
-        <property name="java-output-path" value="/test.day2/build/classes"/>
-=======
     <wb-module deploy-name="com.aision.org">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
@@ -13,6 +6,5 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="com.aision.org"/>
         <property name="java-output-path" value="/com.aision.org/target/classes"/>
->>>>>>> branch 'master' of https://github.com/zsxxxx/gitskills
     </wb-module>
 </project-modules>
